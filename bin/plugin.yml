@@ -1,0 +1,16 @@
+name: Skin
+version: 1.0
+main: me.surferdude999.skin.Skin
+description: SKINS
+ 
+commands:
+    Skin:
+        usage: /<command> 
+        description: Skins
+       
+permissions:
+    skin.change:
+        description: SKIN.
+        default: op
+        
+   
